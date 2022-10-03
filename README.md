@@ -2,6 +2,8 @@
 
 **Heroku App link(https://mushroom-classifications.herokuapp.com)**
 
+![image](https://user-images.githubusercontent.com/86904142/193563806-82835c47-b270-4d59-8454-c86f36fbe520.png)
+
 
 # Problem Statement:
 **Which features are most indicative of a poisonous mushroom?**
@@ -68,6 +70,13 @@ For Classification Class is dependent feature which is a Binary Classification(e
  7. XGboost
  8. Grediantboost
 
+# Model Deployment
+
+**Streamlit**
+> framework is created using streamlit.
+
+**Heroku**
+> Model deployed on Heroku.
 
 
 
