@@ -26,12 +26,47 @@
 
 > This dataset was originally donated to the UCI Machine Learning repository. You can learn more about past research using the data here.
 
+# Library Used in this Project
+
+**Data Pre-Processing**
+ 1. Numpy
+ 2. Pandas
+
+**Data Visualisation**
+
+ 1. Matplotlib
+ 2. Seaborn
 
 
+**Model Building**
+ 1. Sklearn
+ 2. statsmodels
+
+# Steps
+ 1. Data Collection
+ 2. Data Pre-Processing
+ 3. Exploratory Data Analysis
+ 4. Feature Engineering
+ 5. Model Building
+ 6. Streamlit framework for Front end
+ 7. Model deployment
 
 
+# Model Building
 
+**Classification**
 
+For Classification Class is dependent feature which is a Binary Classification(edible, poisonous)
+
+# Model Used:
+ 1. Logistic Regression
+ 2. Support vector Classifier
+ 3. Naive Bayes Classifier
+ 4. Decision Tree
+ 5. Random Forest
+ 6. K-Nearest Neighbour
+ 7. XGboost
+ 8. Grediantboost
 
 
 
